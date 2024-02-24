@@ -1,5 +1,5 @@
 <h1 align="center">Hello there🙋‍♂️</h1>
-<h3 align="center">I'm Omar, A Frontend developer</h3>
+<h3 align="center">I'm Omar, A Frontend developer & UI designer</h3>
 
 - 🌱 I’m currently learning "ReactJS"
 - 👯 I’m looking to collaborate on Web Apps
